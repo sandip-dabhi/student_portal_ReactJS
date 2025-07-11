@@ -1,1 +1,2 @@
 # student_portal_ReactJS
+This project is a modern and responsive Student Portal UI built using React. It includes components such as a dashboard overview, course management, grade display, weekly schedule, and student profile—all structured with reusable components and styled using inline CSS for a fully self-contained frontend experience. Ideal for academic institutions, personal learning, or frontend portfolio showcases.
