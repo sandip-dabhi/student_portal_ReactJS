@@ -12,7 +12,6 @@ import Schedule from './pages/Schedule.jsx';
 import NotFound from './pages/NotFound.jsx';
 
 import './App.css';
-
 const App = () => {
   return (
     <Router>
