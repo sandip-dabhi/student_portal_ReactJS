@@ -71,7 +71,6 @@ const Sidebar = () => {
     </nav>
   );
 };
-
 const navItems = [
   { to: '/', label: 'Dashboard', icon: '📊' },
   { to: '/courses', label: 'Courses', icon: '📚' },
