@@ -33,7 +33,7 @@ const Dashboard = () => {
       content: '5 new study resources available. 3 are recommended for your courses.'
     }
   ];
-
+  
   return (
     <div className="page-content">
       <div className="section-header">
