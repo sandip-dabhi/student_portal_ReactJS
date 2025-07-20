@@ -42,7 +42,6 @@ header {
   box-shadow: 0 4px 15px var(--shadow);
   z-index: 100;
 }
-
 /* Main content area */
 .main-content {
   display: flex;
