@@ -6,7 +6,7 @@ const styles = {
     backgroundColor: '#f1f5f9',
     fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
     minHeight: '70vh',
-    marginLeft: '25px', // Match sidebar width
+    marginLeft: '25px', 
   },
   header: {
     marginBottom: '1.5rem',
