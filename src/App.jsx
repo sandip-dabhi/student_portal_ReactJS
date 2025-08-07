@@ -1,16 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-
 import Header from './components/Header.jsx';
 import Sidebar from './components/Sidebar.jsx';
-
 import Dashboard from './pages/Dashboard.jsx';
 import Courses from './pages/Courses.jsx';
 import Grades from './pages/Grades.jsx';
 import Profile from './pages/Profile.jsx';
 import Schedule from './pages/Schedule.jsx';
 import NotFound from './pages/NotFound.jsx';
-
 import './App.css';
 const App = () => {
   return (
