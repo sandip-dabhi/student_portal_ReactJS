@@ -1,13 +1,11 @@
-// index.js - Enhanced Entry Point for Student Portal
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 import { ErrorBoundary } from 'react-error-boundary';
 import App from './App';
-import './index.css'; // Your global CSS
-import './App.css';   // Your component-specific CSS
+import './index.css'; 
+import './App.css';   S
 
-// Error Fallback Component
 const ErrorFallback = ({ error, resetErrorBoundary }) => {
   return (
     <div style={{
